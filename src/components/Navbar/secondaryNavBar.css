@@ -1,0 +1,11 @@
+@media screen and (max-width: 841px) {
+    .secondaryNavBar {
+     flex-direction: column;
+     gap:10px;
+    }}
+
+    .pl-1{
+        margin-bottom: 10px;
+    }
+
+ 
